@@ -6,7 +6,9 @@ namespace BilietavimoSistema
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            while True:
+            Console.WriteLine("Meniu: 1 pirkti bilieta, 2 kurti bilieta");
+            string pasirinkimas = (Readline);
         }
     }
 }

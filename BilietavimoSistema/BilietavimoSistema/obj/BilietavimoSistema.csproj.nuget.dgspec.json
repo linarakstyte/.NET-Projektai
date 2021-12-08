@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj": {}
+    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\.NET-Projektai\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj": {
+    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\.NET-Projektai\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj",
+        "projectUniqueName": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\.NET-Projektai\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj",
         "projectName": "BilietavimoSistema",
-        "projectPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj",
+        "projectPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\.NET-Projektai\\BilietavimoSistema\\BilietavimoSistema\\BilietavimoSistema.csproj",
         "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\BilietavimoSistema\\BilietavimoSistema\\obj\\",
+        "outputPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\.NET-Projektai\\BilietavimoSistema\\BilietavimoSistema\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
