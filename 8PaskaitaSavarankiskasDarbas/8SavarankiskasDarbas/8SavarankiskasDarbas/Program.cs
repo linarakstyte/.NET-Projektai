@@ -1,6 +1,8 @@
-﻿using PalmeStruct;
+﻿using MiskasStruct;
+using PalmeStruct;
 using SaskaitaStruct;
 using System;
+using System.Collections.Generic;
 
 namespace _8SavarankiskasDarbas
 {
@@ -8,6 +10,7 @@ namespace _8SavarankiskasDarbas
     {
         static void Main(string[] args)
         {
+            #region
             string SaskaitosNumeris()
             {
                 Random rnd = new Random();
@@ -20,7 +23,9 @@ namespace _8SavarankiskasDarbas
 
             var saskaita1 = new Saskaita("Jonas", "Petras", 2910, ($"{SaskaitosNumeris()}"));
             Console.WriteLine($"Gavejas {saskaita1._gavejas}, siuntejas {saskaita1._siuntejas}, reikia moketi {saskaita1._moketiViso} i saskaita {saskaita1._saskaitosNumeris}");
+            #endregion
 
+            #region
             Console.WriteLine("Koks palmes amzius (menesiu skaicius):");
             int amzius = Convert.ToInt32(Console.ReadLine());
             int vaisiuKiekis = 0;
@@ -34,7 +39,7 @@ namespace _8SavarankiskasDarbas
                 vaisiuKiekis = amzius * 3;
             }
             else amzius = 0;
-                 vaisiuKiekis = 0;
+            vaisiuKiekis = 0;
 
             var palme1 = new Palme(amzius, vaisiuKiekis);
 
@@ -48,9 +53,16 @@ namespace _8SavarankiskasDarbas
 
             }
             Prideti1MenAmziaus();
+            #endregion
+
+            Miskas medziuSarasas1 = new Miskas();
+
+            medziuSarasas1.PasodintiMedi();
+
+
         }
 
-        
+
     }
 }
 
