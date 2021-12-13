@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_8SavarankiskasDarbas</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PalmeStruct\PalmeStruct.csproj" />
+    <ProjectReference Include="..\Saskaita\SaskaitaStruct.csproj" />
+  </ItemGroup>
+
+</Project>
